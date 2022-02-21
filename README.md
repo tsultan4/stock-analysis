@@ -13,6 +13,9 @@ refactor the code so it is faster when analyzsing many stocks.
 The performance of the market between 2017 and 2018 was very different.  Green stocks performed well in 2017 and
 gave up most of the gains in 2018, except for ENPH. Refactoring the code reduced the execution times from ~3 
 seconds to around .6 second for both years.
+![2017 results](/VBA_Challenge_2017.png)
+![2018 results](/VBA_Challenge_2018.png)
+
 
 3. Summary: In a summary statement, address the following questions.
 
